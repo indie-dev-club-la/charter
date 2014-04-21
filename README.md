@@ -1,5 +1,7 @@
 #Indie Dev Club Organizational Charter
 
+This charter is a work in progress. For feedback or suggestions, please submit an issue here: https://github.com/indie-dev-club-la/charter/issues
+
 ##Statement of Purpose
 
 Digital game creation is an ascendent artistic medium that has the ability to provide unique social and aesthetic experiences. As means of creation and modes of distribution become more democratized, the potential for individuals to create experiences and tell stories is becoming more and more accessible: anyone who wants to make a game can.
